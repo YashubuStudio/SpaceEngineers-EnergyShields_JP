@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="DisplayName_ShieldGeneration" xml:space="preserve">
+    <value>シールド生成</value>
+  </data>
+  <data name="DisplayName_ShieldComponent" xml:space="preserve">
+    <value>シールドコンポーネント</value>
+  </data>
+  <data name="DisplayName_ShieldPoints" xml:space="preserve">
+    <value>シールドポイント</value>
+  </data>
+  <data name="DisplayName_SmallShieldGenerator" xml:space="preserve">
+    <value>小型シールドジェネレーター</value>
+  </data>
+  <data name="DisplayName_LargeShieldGenerator" xml:space="preserve">
+    <value>大型シールドジェネレーター</value>
+  </data>
+  <data name="DisplayName_ShieldCapacitor" xml:space="preserve">
+    <value>シールドキャパシタ</value>
+  </data>
+  <data name="DisplayName_ShieldFluxCoil" xml:space="preserve">
+    <value>シールドフラックスコイル</value>
+  </data>
+  <data name="DisplayName_EnergyShieldsCategory" xml:space="preserve">
+    <value>エネルギーシールド</value>
+  </data>
+  <data name="DisplayName_ShieldRegenerating" xml:space="preserve">
+    <value>シールド再生素材</value>
+  </data>
+</root>

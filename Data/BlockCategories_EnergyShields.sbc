@@ -6,7 +6,7 @@
         <TypeId>GuiBlockCategoryDefinition</TypeId>
         <SubtypeId/>
       </Id>
-      <DisplayName>Energy Shields</DisplayName>
+      <DisplayName>エネルギーシールド</DisplayName>
       <Name>EnergyShields</Name>
       <IsShipCategory>true</IsShipCategory>
       <ItemIds>

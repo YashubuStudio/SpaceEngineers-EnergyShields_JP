@@ -6,7 +6,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>ShieldPointOre</SubtypeId>
       </Id>
-      <DisplayName>Shield Regenerating</DisplayName>
+      <DisplayName>シールド再生素材</DisplayName>
       <Icon>Textures\Icons\Recharge.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -22,7 +22,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>ShieldPointIngot</SubtypeId>
       </Id>
-      <DisplayName>Shield Regenerating</DisplayName>
+      <DisplayName>シールド再生素材</DisplayName>
       <Icon>Textures\Icons\Recharge.dds</Icon>
       <Size>
         <X>0.072</X>

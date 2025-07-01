@@ -6,7 +6,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>EnergyShieldClass</SubtypeId>
       </Id>
-      <DisplayName>Shield Points</DisplayName>
+      <DisplayName>シールドポイント</DisplayName>
       <Icon>Textures\GUI\Icons\buttons\tool_highlight.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\tool_highlight.dds</HighlightIcon>
     </Class>
