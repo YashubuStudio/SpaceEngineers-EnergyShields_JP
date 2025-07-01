@@ -10,10 +10,12 @@
       <Name>EnergyShields</Name>
       <IsShipCategory>true</IsShipCategory>
       <ItemIds>
-	<string>SmallShieldGeneratorBase</string>
-        <string>LargeShieldGeneratorBase</string>
-	<string>ShieldCapacitor</string>
-	<string>ShieldFluxCoil</string>
+        <string>LargeShipSmallShieldGeneratorBase</string>
+        <string>LargeShipLargeShieldGeneratorBase</string>
+        <string>SmallShipSmallShieldGeneratorBase</string>
+        <string>SmallShipMicroShieldGeneratorBase</string>
+        <string>ShieldCapacitor</string>
+        <string>ShieldFluxCoil</string>
       </ItemIds>
     </Category>
   </CategoryClasses>
