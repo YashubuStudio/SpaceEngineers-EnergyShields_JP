@@ -6,7 +6,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Shield</SubtypeId>
       </Id>
-      <DisplayName>Shield Component</DisplayName>
+      <DisplayName>{LOC:DisplayName_ShieldComponent}</DisplayName>
       <Icon>Textures\Icons\shieldcomponent.dds</Icon>
       <Size>
         <X>0.2</X>

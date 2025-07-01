@@ -6,7 +6,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ShieldPoints</SubtypeId>
       </Id>
-      <DisplayName>ShieldGeneration</DisplayName>
+      <DisplayName>{LOC:DisplayName_ShieldGeneration}</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\gravel_ingot.dds</Icon>
       <Prerequisites>
 	<Item Amount="1" TypeId="Ore" SubtypeId="ShieldPointOre" />
@@ -21,7 +21,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ShieldComponent</SubtypeId>
       </Id>
-      <DisplayName>Shield Component</DisplayName>
+      <DisplayName>{LOC:DisplayName_ShieldComponent}</DisplayName>
       <Icon>Textures\Icons\shieldcomponent.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Ingot" SubtypeId="Cobalt" />
